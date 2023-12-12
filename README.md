@@ -1,3 +1,3 @@
 # TEST PROJECTS
-# First Git project
+# Git projects code
 # something interesting
